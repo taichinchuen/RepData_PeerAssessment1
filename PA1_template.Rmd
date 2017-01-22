@@ -2,7 +2,9 @@
 title: 'Reproducible Research: Peer Assessment 1'
 author: "Tai Chin Chuen"
 date: "January 22, 2017"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ## Loading and preprocessing the data
